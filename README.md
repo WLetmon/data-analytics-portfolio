@@ -1,2 +1,5 @@
 # data-analytics-portfolio
-Dat Analytics Projects
+Data Analytics Projects
+## SQL
+## Statistics
+## Visual Communications
